@@ -1,2 +1,2 @@
 # Pandas-and-Numpy-assignment
-Pandas and Numpy Assignments for Data Science Masters 2.0
+This repository contains the Pandas and Numpy Assignments created for Data Science Masters 2.0 course by PWSkills
